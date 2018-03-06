@@ -1,4 +1,4 @@
-package br.com.alexfogjava.fractalsdraw.fractal;
+package br.com.alexfogjava.fractalsdraw.models.shapes;
 
 public class Point
 {

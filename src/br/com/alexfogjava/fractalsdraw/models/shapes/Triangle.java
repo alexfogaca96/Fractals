@@ -2,8 +2,6 @@ package br.com.alexfogjava.fractalsdraw.models.shapes;
 
 import java.util.Arrays;
 
-import br.com.alexfogjava.fractalsdraw.fractal.Point;
-
 public class Triangle
 {
 	private final Point[] points;

@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Stack;
 
 import br.com.alexfogjava.fractalsdraw.fractal.PaintableFractal;
-import br.com.alexfogjava.fractalsdraw.fractal.Point;
+import br.com.alexfogjava.fractalsdraw.models.shapes.Point;
 import br.com.alexfogjava.fractalsdraw.models.shapes.Triangle;
 
 public class SierpinskiTriangle extends PaintableFractal
