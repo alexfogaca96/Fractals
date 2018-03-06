@@ -10,6 +10,3 @@ To see the next step, type next and press enter.
 To see the last step, type last and press enter.
 
 If nothing is written and enter is pressed, the program will end.
-
-Álex S. Fogaça
-Java Software Intern
